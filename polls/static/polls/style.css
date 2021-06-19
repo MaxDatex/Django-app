@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+h1 {
+    background-color: violet;
+    color: yellow;
+}
+
+body {
+    background: url("images/background.gif") no-repeat;
+    background-size: 1400px 768px;
+}
